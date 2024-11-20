@@ -10,7 +10,7 @@ const Citys = (props) => {
               <div style={{ position: "relative" }}>
                 <img
                   src={img.src}
-                  style={{ width: "18rem", borderRadius: "5px" }}
+                  style={{ width: "25rem", borderRadius: "5px" }}
                 />
                 <div
                   className="img-caption-container"
